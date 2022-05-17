@@ -10,7 +10,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello december")
 	fmt.Println(quote.Go())
 
 	// Set properties of the predefined Logger, including
